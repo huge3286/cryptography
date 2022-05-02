@@ -1,6 +1,6 @@
 # cryptography
 密码学课程代码<br>
-codes of course cryptograph and network security
+codes of course cryptography and network security
 
 1.AES加密实验<br>
 2.RSA加密实验<br>
